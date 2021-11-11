@@ -1,5 +1,5 @@
 # Different-Machine-Learning-about-Actual-weather-dataset
-# Task 1-a: Classification
+## Task 1-a: Classification
 1- Load the data and perform all necessary data cleaning and scaling.
 2- Data inspection. Use any relevant functions that can help you to understand the data. Use any
 necessary visualization techniques to inspect your data
@@ -12,7 +12,7 @@ sklearn libraries.
 6- For each model provide suitable quantitative metrics for assessing the performance of your
 model based on the required application.
 
-Task 1-b: Regression Analysis
+## Task 1-b: Regression Analysis
 1- Load the data and perform all necessary data cleaning and scaling.
 2- Data inspection. Use any relevant functions that can help you to understand the data. Use any
 necessary visualization techniques to inspect your data
